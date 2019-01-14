@@ -1,0 +1,6 @@
+.git/*
+*.zip
+README.md
+exclude.lst
+createZip
+.DS_Store
